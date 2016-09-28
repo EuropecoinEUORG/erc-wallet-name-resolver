@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.netki</groupId>
-    <artifactId>wallet-name-resolver</artifactId>
-    <version>0.1.4</version>
+    <artifactId>erc-wallet-name-resolver</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>Wallet Name Resolver</name>
@@ -109,8 +109,8 @@
         </dependency>
         <dependency>
             <groupId>org.bitcoinj</groupId>
-            <artifactId>bitcoinj-core</artifactId>
-            <version>0.13.5</version>
+            <artifactId>europecoinj-core</artifactId>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
